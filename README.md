@@ -1,6 +1,5 @@
-# my cybersecurity portfolio
-My portfolio of projects and studies in cybersecurity.
 #Cybersecurity Portfolio – Anizio Filho
+My portfolio of projects and studies in cybersecurity.
 
 Welcome to my public portfolio focused on **offensive security** and **cybersecurity studies**.  
 This repository includes tools, lab notes, and practice exercises I've developed to sharpen my skills.
